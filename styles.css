@@ -1,0 +1,15 @@
+/* Estilo para el contenedor de mensajes de error */
+#mensajeError {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #dc3545; /* Borde rojo */
+    border-radius: 5px;
+    background-color: #f8d7da; /* Fondo rojo claro */
+    color: #721c24; /* Texto oscuro */
+}
+
+/* Estilo para los mensajes de error */
+#mensajeError p {
+    margin: 0;
+    padding: 0;
+}
